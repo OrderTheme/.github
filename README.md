@@ -49,7 +49,7 @@ We’re ready to help — from strategy to execution.
 
 - 🌐 Website: [washaq.io](https://washaq.io)
 - 📧 Email: info@washaq.io
-- 📱 WhatsApp: [Washaq](https://wa.link/fipweq)
+- 📱 WhatsApp: [+966 533209345](https://wa.link/fipweq)
 - 💼 LinkedIn: [Washaq on LinkedIn](https://www.linkedin.com/company/washaqio)
 
 ---
