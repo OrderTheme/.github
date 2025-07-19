@@ -1,6 +1,6 @@
-# 🐆 Wushaq | Digital & Software Solutions
+# 🐆 Washaq | Digital & Software Solutions
 
-**Wushaq is a creative tech company that delivers smart digital marketing and software solutions to help brands grow, scale, and stand out.**
+**Washaq is a creative tech company that delivers smart digital marketing and software solutions to help brands grow, scale, and stand out.**
 
 ---
 
@@ -54,5 +54,5 @@ We’re ready to help — from strategy to execution.
 
 ---
 
-> Built with ❤️ by the Wushaq Tech Team.  
+> Built with ❤️ by the Washaq Tech Team.  
 > Follow us for updates....
