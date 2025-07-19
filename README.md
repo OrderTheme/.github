@@ -30,7 +30,7 @@
 We leverage modern tools and technologies to build high-quality solutions:
 
 - HTML / CSS / JavaScript
-- React / Vue / Alpine.js
+- React / Angular  / Alpine.js
 - PHP / Laravel / Node.js
 - Liquid / Twig (for e-commerce platforms)
 - Salla & Zid APIs
@@ -47,12 +47,12 @@ We’re ready to help — from strategy to execution.
 
 ## 📞 Contact Us
 
-- 🌐 Website: [wushaq.sa](https://wushaq.sa)
-- 📧 Email: info@wushaq.sa
-- 📱 WhatsApp: +966 5XXXXXXXX
-- 📸 Instagram: [@wushaq.sa](https://instagram.com/wushaq.sa)
+- 🌐 Website: [washaq.io](https://washaq.io)
+- 📧 Email: info@washaq.io
+- 📱 WhatsApp: +966 533209345
+- 📸 LinkedIn: [Washaq](https://www.linkedin.com/company/washaqio)
 
 ---
 
 > Built with ❤️ by the Wushaq Tech Team.  
-> Follow us for updates, new products, and projects.
+> Follow us for updates....
