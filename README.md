@@ -50,7 +50,7 @@ We’re ready to help — from strategy to execution.
 - 🌐 Website: [washaq.io](https://washaq.io)
 - 📧 Email: info@washaq.io
 - 📱 WhatsApp: [Washaq](https://wa.link/fipweq)
-- 📸 LinkedIn: [Washaq](https://www.linkedin.com/company/washaqio)
+- 💼 LinkedIn: [Washaq on LinkedIn](https://www.linkedin.com/company/washaqio)
 
 ---
 
